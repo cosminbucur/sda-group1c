@@ -26,7 +26,7 @@ The project contains multiple sub modules, each with a similar structure:
 
 ##### in browser
 
-	go to github repo at https://github.com/cosminbucur/sda-group11
+	go to github repo at https://github.com/cosminbucur/sda-group1c
 
 	copy clone command
 
@@ -36,10 +36,10 @@ The project contains multiple sub modules, each with a similar structure:
 	right click > git bash (or terminal)
 
 ##### in terminal
-	> git clone https://github.com/cosminbucur/sda-group11.git
+	> git clone https://github.com/cosminbucur/sda-group1c.git
 
 ##### in intellij
-	open project C:\dev\sda-group11
+	open project C:\dev\sda-group1c
 
 	check auto import and wait
 
