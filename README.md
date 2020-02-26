@@ -15,10 +15,12 @@ The project contains multiple sub modules, each with a similar structure:
 
 ## Courses
 
-### javafx
-
----
-
+### java fx
+- containers
+- components
+- properties
+- events
+- FXML
 
 ---
 
